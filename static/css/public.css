@@ -1,0 +1,6 @@
+/*  public  */
+html,body { height:100%;}
+html{
+	overflow-x:hidden; 
+}
+body,div,table,dl,dt,dd,form,fieldset{ padding:0px; margin:0px auto;}
